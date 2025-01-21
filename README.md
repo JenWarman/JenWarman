@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jen Warman a junior software developer.
-- 🌱 I’m currently learning TypeScript, more about UI/UX design and improving my React skills. 
+- 🌱 I’m currently learning TypeScript, Angular and more about UI/UX design. 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/jen-warman-38198a172/)
 - :computer: See my online [Portfolio]( https://jen-warman-portfolio.netlify.app/)
 - 😄 Pronouns: she/her
